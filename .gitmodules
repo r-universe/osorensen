@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hdme"]
+	path = hdme
+	url = https://github.com/osorensen/hdme
+	shallow = true
+	registered = true
